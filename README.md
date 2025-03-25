@@ -17,5 +17,8 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 | ```react-router-dom```                  | for routing      |  
 
 
+constants/index.js 
+can change anything in this to match your profile like work experience, timelines, etc.
+
 
 
