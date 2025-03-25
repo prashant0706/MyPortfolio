@@ -1,12 +1,22 @@
-# React + Vite
+Step 1:
+npm create vite@latest ./ -- --template react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-legacy-peer-deps = required for installing older packages 
 
-## Expanding the ESLint configuration
+@react-three/fiber = allows to use 3JS to be used in react
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+maath = for math utility function 
+
+react-tilt = animation for hovering over cards
+
+react-vertical-timeline-component - for make timeline animation 
+
+@emailjs/browser
+
+react-router-dom - for routing 
+
+
+
