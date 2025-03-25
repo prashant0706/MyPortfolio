@@ -9,21 +9,25 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 
  = 
 
- = for math utility function 
+ = 
 
-```react-tilt``` = animation for hovering over cards
+ = 
 
-```react-vertical-timeline-component``` - for make timeline animation 
+ - 
 
-```@emailjs/browser```
 
-```react-router-dom``` - for routing 
+
+ - 
 
 | Tables        | Are           |
 | ------------- |:-------------:| -----:|
 | ``` -legacy-peer-deps```     | required for installing older packages  |
 | ```@react-three/fiber```      | allows to use 3JS to be used in react      |  
-| zebra stripes | are neat      |    $1 |
+| ```maath``` | for math utility function      |   
+| ```react-tilt``` | animation for hovering over cards      |  
+| ```react-vertical-timeline-component``` | for make timeline animation       |  
+| ```@emailjs/browser``` |      |   
+| ```react-router-dom``` | for routing      |  
 
 
 
